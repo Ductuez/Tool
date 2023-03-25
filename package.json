@@ -1,0 +1,21 @@
+{
+  "name": "tooltx",
+  "version": "1.0.0",
+  "description": "",
+  "main": "content.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "copy-webpack-plugin": "^11.0.0",
+    "jquery": "^3.6.4"
+  },
+  "devDependencies": {
+    "babel-loader": "^9.1.2",
+    "terser-webpack-plugin": "^5.3.7",
+    "webpack": "^5.76.2",
+    "webpack-cli": "^5.0.1"
+  }
+}

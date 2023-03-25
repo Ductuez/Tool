@@ -7,7 +7,7 @@
     "content_scripts": [
         {
           "matches": ["https://xsmb88.com/*"],
-          "js": ["content.js"]
+          "js": ["./dist/bundle.min.js"]
         }
       ],
     "browser_action": {
